@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "511ba75a-cbab-4631-af36-df146d91c939": {
+      "ProjectGuid": "511ba75a-cbab-4631-af36-df146d91c939",
+      "DisplayName": "EntityFrameworkSamples",
+      "ColorIndex": 0
+    },
+    "69a80e85-5407-4944-a283-09ea803f65db": {
+      "ProjectGuid": "69a80e85-5407-4944-a283-09ea803f65db",
+      "DisplayName": "SampleWpf",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    },
+    "3fd33d97-e01e-4fe1-b13d-007ceabca5c7": {
+      "ProjectGuid": "3fd33d97-e01e-4fe1-b13d-007ceabca5c7",
+      "DisplayName": "WithHostFactoryWpf",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
